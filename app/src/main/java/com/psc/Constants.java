@@ -5,7 +5,7 @@ package com.psc;
  */
 
 public class Constants {
-    public static boolean DEBUG=true; // Debug mode, used to check whether to log and doublecheck everything.
+    public static final boolean DEBUG=true; // Debug mode, used to check whether to log and doublecheck everything.
     public static Descriptor descriptorUsed=null;
     public static Matcher matcherUsed=null;
 
